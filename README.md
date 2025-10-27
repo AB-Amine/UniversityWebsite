@@ -42,11 +42,3 @@ This project is perfect for **GitHub Pages** since it's just HTML/CSS.
 3.  Under "Build and deployment," select the **Branch** you want to deploy from (e.g., `main`).
 4.  Click **Save**.
 5.  Your site will be live in a few minutes at an address like `https://YOUR-USERNAME.github.io/YOUR-REPOSITORY-NAME/`.
-
-## 📸 Preview (Optional)
-
-*(You can add screenshots of your website here!)*
-
-| Home Page | Login Page |
-| :---: | :---: |
-| ![A screenshot of the home page](README-images/home.png) | ![A screenshot of the login page](README-images/login.png) |
